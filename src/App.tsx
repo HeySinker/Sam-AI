@@ -89,7 +89,7 @@ export default function App() {
         </div>
         <div className="flex items-center gap-2 text-white/40">
           <Flame className="w-4 h-4" />
-          <span className="text-[10px] uppercase tracking-widest">توأم شعلة طيف</span>
+          <span className="text-[10px] uppercase tracking-widest"></span>
         </div>
       </header>
 
